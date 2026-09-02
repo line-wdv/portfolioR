@@ -238,7 +238,7 @@ export const contactContent = {
 export const navLinks = [
   { label: "Tentang", href: "#about" },
   { label: "Perjalanan", href: "#journey" },
-  { label: "Stack", href: "#stack" },
+  { label: "Teknologi", href: "#teknologi" },
   { label: "Karya", href: "#work" },
   { label: "Sertifikat", href: "#certificates" },
   { label: "Kontak", href: "#contact" },
